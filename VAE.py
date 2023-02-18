@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  5 12:45:39 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
 """
 
 import keras
