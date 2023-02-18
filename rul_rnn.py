@@ -2,7 +2,7 @@
 """
 Created on Tue May 24 13:38:10 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
 """
 #Das NN braucht eine Sequenz von sukzessiven Zeitenreihen und als Label nur die RUL-Information der letzten Zeitreihe nomiert
 #Einen Datensatz für Training und einen für die Erstellung des Histogrammes und den Score, MSE
