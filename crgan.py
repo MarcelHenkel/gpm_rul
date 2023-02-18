@@ -2,7 +2,10 @@
 """
 Created on Mon Sep 12 10:45:21 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
+
+Based on the paper: time-series regeneration with convolutional recurrent generative adversarial network for remaining useful life estimation" 
+(https://www.semanticscholar.org/paper/Time-Series-Regeneration-With-Convolutional-Network-Zhang-Qin/55dd7715123a5ada27ad2b8db996a54170dcf9bd)
 """
 
 
