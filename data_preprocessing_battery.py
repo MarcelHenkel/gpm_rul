@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 11 10:17:07 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
 """
 from os import walk
 import numpy as np
