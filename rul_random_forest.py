@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 20 22:00:27 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
 """
 
 from sklearn.ensemble import RandomForestClassifier
