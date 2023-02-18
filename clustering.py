@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 22 10:48:30 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
 """
 
 
