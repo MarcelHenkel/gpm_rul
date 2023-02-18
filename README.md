@@ -1,4 +1,4 @@
-# gpm_rul
+# Generation and prediction models for timeseries sequences 
 This framwork consits of generative and predictive models for remaining useful life estimation. This framework consits three prediction and two generative adverserial newtorks (GANs). For the three prediction models use following machine learning models:
   1. Recurrent Neural Network
   2. Transformer Network
