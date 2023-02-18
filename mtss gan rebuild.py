@@ -2,7 +2,9 @@
 """
 Created on Fri Nov 25 11:23:55 2022
 
-@author: POV GmbH
+@author: Marcel Henkel
+Based on the paper: MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks" 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557 and the code which https://github.com/firmai/mtss-gan.
 """
 import tensorflow as tf
 import numpy as np
